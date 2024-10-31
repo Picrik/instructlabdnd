@@ -1,0 +1,9 @@
+created_by: Jeremy Schneider
+seed_examples:
+- answer: "I win : I've two dice which land on 18 and 15, I throw with an advatage, so I keep the best value : 18 and I need a 16 or higher to pass"
+  question: "You've thrown 2 dice with advantage, they land on 18 and 15, you need a 16 to pass"
+- answer: "I loose : I've two dice which land on 10 and 5, I throw with an disadvatage, so I keep the lowest value : 5 and I need a 10 or higher to pass"
+  question: "You've thrown 2 dice with disadvantage, they land on 10 and 5, you need a 16 to pass"
+- answer: "I got a 15 : I throw one dice with 20 sides and look randomly to the value" 
+  question: "You throw one D20 dice, how much did you get ?"
+task_description: 'To teach a language model about step by step dice throwing
